@@ -18,7 +18,7 @@ Hello! I'm Hadi Ch., a passionate developer specializing in Java, Python, and mo
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithHadii&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=CodeWithHadii&theme=solarized-dark&no-frame=false&no-bg=false&margin-w=4)
+[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=CodeWithHadii&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/CodeWithHadii)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
